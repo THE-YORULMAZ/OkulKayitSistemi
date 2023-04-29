@@ -1,5 +1,4 @@
 # OkulKayitSistemi
-DESIGN
 PROJECT DESIGN IMAGES
 
 ![form1](https://user-images.githubusercontent.com/108897416/195898255-65acce48-c562-4add-83c6-c5668f7ced56.png)
